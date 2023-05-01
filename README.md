@@ -67,7 +67,9 @@
 
 * MIT [`6.828`](https://pdos.csail.mit.edu/6.828/) Operating System Engineering
 
-* Berkeley [`CS162`](https://cs162.org/) Operating Systems and Systems Programming
+* JHU [`CS318`](https://www.cs.jhu.edu/~huang/cs318/fall22/) Principles of Operating Systems
+
+* ⭐Berkeley [`CS162`](https://cs162.org/) Operating Systems and Systems Programming
 
 * [蒋炎岩 南京大学 操作系统](https://jyywiki.cn/)
 
