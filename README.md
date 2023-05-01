@@ -89,6 +89,8 @@
 ## 🟢Computer Security
 * Berkeley [`CS161`](https://cs161.org) Computer Security
 
+* Stanford [`CS155`](https://cs155.stanford.edu/) Computer and Network Security
+
 * MIT [`6.858`](https://css.csail.mit.edu/6.858/) Computer System Security
 
 * ⭐[**`PWN.COLLEGE`**](https://dojo.pwn.college/) Computer Systems Security
@@ -154,4 +156,3 @@
 * MIT [`6.003`](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) Signals and Systems
 
 * ⭐[**`THE FEYNMAN LECTURES ON PHYSICS`**](https://www.feynmanlectures.caltech.edu/)
-
