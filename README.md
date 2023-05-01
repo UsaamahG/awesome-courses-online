@@ -135,6 +135,8 @@
 
 * Stanford `CS231n` Deep Learning for Computer Vision
 
+* Stanford [`CS324`](https://stanford-cs324.github.io/winter2022/) Large Language Models
+
 * CMU [`10-708`](https://sailinglab.github.io/pgm-spring-2019/) Probabilistic Graphical Models
 ## 🕹Computer Graphics
 * Stanford [`CS148`](https://cs148.stanford.edu/) Introduction to Computer Graphics and Imaging
