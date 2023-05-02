@@ -131,6 +131,8 @@
 
 * Stanford [`CS224N`](https://web.stanford.edu/class/cs224n/) Natural Language Processing with Deep Learning
 
+* Stanford [`CS224U`](https://web.stanford.edu/class/cs224u/) Natural Language Understanding
+
 * Stanford [`CS224W`](https://web.stanford.edu/class/cs224w/) Machine Learning with Graphs
 
 * Stanford `CS231n` Deep Learning for Computer Vision
