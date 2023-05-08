@@ -140,6 +140,9 @@
 * Stanford [`CS324`](https://stanford-cs324.github.io/winter2022/) Large Language Models
 
 * CMU [`10-708`](https://sailinglab.github.io/pgm-spring-2019/) Probabilistic Graphical Models
+
+* UPenn [`ESE5140`](https://gnn.seas.upenn.edu/) Graph Neural Networks
+
 ## 🕹Computer Graphics
 * Stanford [`CS148`](https://cs148.stanford.edu/) Introduction to Computer Graphics and Imaging
 
