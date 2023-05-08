@@ -143,6 +143,7 @@
 
 * UPenn [`ESE5140`](https://gnn.seas.upenn.edu/) Graph Neural Networks
 
+* NYU [`DS-GA1008`](https://atcold.github.io/pytorch-Deep-Learning/) Deep Learning
 ## 🕹Computer Graphics
 * Stanford [`CS148`](https://cs148.stanford.edu/) Introduction to Computer Graphics and Imaging
 
