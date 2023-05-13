@@ -91,6 +91,8 @@
 
 * Stanford [`CS155`](https://cs155.stanford.edu/) Computer and Network Security
 
+* Stanford [`CS251`](https://cs251.stanford.edu/) Cryptocurrencies and Blockchain Technologies
+
 * Stanford [`CS255`](https://crypto.stanford.edu/~dabo/cs255//) Introduction to Cryptography
 
 * MIT [`6.858`](https://css.csail.mit.edu/6.858/) Computer System Security
