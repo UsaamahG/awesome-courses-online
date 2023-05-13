@@ -1,4 +1,4 @@
-## great-courses-online
+## awesome-courses-online
 [![](https://img.shields.io/github/license/seudonam/great-courses-online?color=red)](https://github.com/seudonam/great-courses-online/blob/main/LICENSE)
 [![](https://img.shields.io/github/forks/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
 [![](https://img.shields.io/github/stars/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
