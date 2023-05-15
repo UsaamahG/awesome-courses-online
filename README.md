@@ -112,7 +112,7 @@
 * CMU [`15-251`](https://www.cs251.com/) Great Ideas in Theoretical Computer Science
 
 * Berkeley [`Data100`](https://ds100.org/sp22/) Principles and Techniques of Data Science
-## 🟠人工智能 Artificial Intelligence
+## 🤖人工智能 Artificial Intelligence
 * ⭐Berkeley [**`CS188`**](https://inst.eecs.berkeley.edu/~cs188/archives) Introduction to Artificial Intelligence
 
 * Berkeley [`CS189`](https://inst.eecs.berkeley.edu/~cs189/archives) Introduction to Machine Learning
@@ -122,8 +122,6 @@
 * Berkeley [`CS285`](https://rail.eecs.berkeley.edu/deeprlcourse/) Deep Reinforcement Learning
 
 * MIT [`6.S191`](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) Introduction to Deep Learning
-
-* Stanford [`EE104`](https://ee104.stanford.edu/) Introduction to Machine Learning
 
 * Stanford [`CS234`](https://web.stanford.edu/class/cs234/) Reinforcement Learning
 
@@ -154,7 +152,7 @@
 * ⭐CMU [**`15-462`**](https://youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) Computer Graphics
 
 * UPenn [`CIS565`](https://cis565-fall-2022.github.io/) GPU Programming and Architecture
-## 🤖电气工程 Electrical Engineering
+## 🟠电气工程 Electrical Engineering
 * ⭐Berkeley [**`EECS16A`**](https://eecs16a.org/) Designing Information Devices and Systems I
 
 * Berkeley [`EECS16B`](https://eecs16b.org/) Designing Information Devices and Systems II
