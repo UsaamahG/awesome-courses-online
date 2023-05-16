@@ -110,8 +110,6 @@
 * MIT [`18.404J`](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) Theory of Computation
 
 * CMU [`15-251`](https://www.cs251.com/) Great Ideas in Theoretical Computer Science
-
-* Berkeley [`Data100`](https://ds100.org/sp22/) Principles and Techniques of Data Science
 ## 🤖人工智能 Artificial Intelligence
 * ⭐Berkeley [**`CS188`**](https://inst.eecs.berkeley.edu/~cs188/archives) Introduction to Artificial Intelligence
 
@@ -121,13 +119,15 @@
 
 * Berkeley [`CS285`](https://rail.eecs.berkeley.edu/deeprlcourse/) Deep Reinforcement Learning
 
+* NYU [`DS-GA1008`](https://atcold.github.io/pytorch-Deep-Learning/) Deep Learning
+
+* ⭐[**李宏毅 國立臺灣大學 機器學習**](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+
 * MIT [`6.S191`](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) Introduction to Deep Learning
 
 * Stanford [`CS234`](https://web.stanford.edu/class/cs234/) Reinforcement Learning
 
 * Stanford [`CS330`](https://cs330.stanford.edu/) Deep Multi-Task and Meta Learning
-
-* ⭐[**李宏毅 國立臺灣大學 機器學習**](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 
 * Stanford [`CS224N`](https://web.stanford.edu/class/cs224n/) Natural Language Processing with Deep Learning
 
@@ -139,11 +139,11 @@
 
 * Stanford [`CS324`](https://stanford-cs324.github.io/winter2022/) Large Language Models
 
-* CMU [`10-708`](https://sailinglab.github.io/pgm-spring-2019/) Probabilistic Graphical Models
-
 * UPenn [`ESE5140`](https://gnn.seas.upenn.edu/) Graph Neural Networks
 
-* NYU [`DS-GA1008`](https://atcold.github.io/pytorch-Deep-Learning/) Deep Learning
+* CMU [`10-708`](https://sailinglab.github.io/pgm-spring-2019/) Probabilistic Graphical Models
+
+* Berkeley [`Data100`](https://ds100.org/sp22/) Principles and Techniques of Data Science
 ## 🕹计算机图形学 Computer Graphics
 * Stanford [`CS148`](https://cs148.stanford.edu/) Introduction to Computer Graphics and Imaging
 
