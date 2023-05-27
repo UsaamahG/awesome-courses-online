@@ -71,7 +71,7 @@
 
 * ⭐Berkeley [`CS162`](https://cs162.org/) Operating Systems and Systems Programming
 
-* [蒋炎岩 南京大学 操作系统](https://jyywiki.cn/)
+* [**蒋炎岩 南京大学 操作系统**](https://jyywiki.cn/)
 
 * Standford [`CS144`](https://cs144.github.io/) Introduction to Computer Networking
 ## ⚫分布式系统与并行计算 Distributed System & Parallel Computing
@@ -123,9 +123,11 @@
 
 * NYU [`DS-GA1008`](https://atcold.github.io/pytorch-Deep-Learning/) Deep Learning
 
-* ⭐[**李宏毅 國立臺灣大學 機器學習**](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+* ⭐李宏毅 國立臺灣大學 [**機器學習**](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 
-* [**林軒田 國立臺灣大學 機器學習技法**](https://www.coursera.org/learn/machine-learning-techniques)
+* 林軒田 國立臺灣大學 [**機器學習基石上**](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)+[**下**](https://www.coursera.org/learn/ntumlone-algorithmicfoundations)
+
+* 林軒田 國立臺灣大學 [**機器學習技法**](https://www.coursera.org/learn/machine-learning-techniques)
 
 * MIT [`6.S191`](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) Introduction to Deep Learning
 
