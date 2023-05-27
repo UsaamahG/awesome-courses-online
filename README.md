@@ -5,9 +5,9 @@
 [![](https://img.shields.io/github/repo-size/seudonam/great-courses-online?color=blueviolet)](https://github.com/seudonam/great-courses-online)
 [![](https://img.shields.io/github/last-commit/seudonam/great-courses-online/main)](https://github.com/seudonam/great-courses-online/commits/main)
 ## 🟣编程 Programming
-* ⭐`David Malan`'s Harvard [**`CS50`**](https://cs50.harvard.edu/x/2023/) Intro to the Intellectual Enterprises of CS and the Art of Programming
+* `David Malan`'s Harvard [**`CS50`**](https://cs50.harvard.edu/x/2023/) Intro to the Intellectual Enterprises of CS and the Art of Programming⭐
 
-* ⭐`John DeNero`'s Berkeley [**`CS61A`**](https://cs61a.org/) Structure and Interpretation of Computer Programs
+* `John DeNero`'s Berkeley [**`CS61A`**](https://cs61a.org/) Structure and Interpretation of Computer Programs⭐
 
 * Coursera Computer Science: An Interdisciplinary Approach [`Part 1`](https://www.coursera.org/learn/cs-programming-java) + [`Part 2`](https://www.coursera.org/learn/cs-algorithms-theory-machines)
 
@@ -27,7 +27,7 @@
 ## 🔴算法与数据结构 Algorithm & Data Structure
 * MIT [`6.006`](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) Introduction to Algorithms
 
-* ⭐`Josh Hug`'s Berkeley [**`CS61B`**](https://sp21.datastructur.es/) Data Structures
+* `Josh Hug`'s Berkeley [**`CS61B`**](https://sp21.datastructur.es/) Data Structures⭐
 
 * Princeton [`COS226`](https://www.princeton.edu/~cos226/) Algorithms and Data Structures
 
@@ -39,17 +39,17 @@
 
 * MIT [`6.851`](https://courses.csail.mit.edu/6.851/) Advanced Data Structures
 
-* ⭐Coursera Algorithms[**`Part1`**](https://www.coursera.org/learn/algorithms-part1)+[**`Part2`**](https://www.coursera.org/learn/algorithms-part2)
+* Coursera Algorithms[**`Part1`**](https://www.coursera.org/learn/algorithms-part1)+[**`Part2`**](https://www.coursera.org/learn/algorithms-part2)⭐
 ## 🔵计算机组成与系统编程 Computer Organization & System Programming
 * Coursera From Nand to Tetris [`Part 1`](https://www.coursera.org/learn/build-a-computer) + [`Part 2`](https://www.coursera.org/learn/nand2tetris2)
 
-* ⭐[**`Onur Mutlu`**](https://safari.ethz.ch/courses/)'s ETH Zurich Digital Design and Computer Architecture
+* [**`Onur Mutlu`**](https://safari.ethz.ch/courses/)'s ETH Zurich Digital Design and Computer Architecture⭐
 
 * `Eddie Kohler`'s Harvard [`CS61`](https://cs61.seas.harvard.edu/) Systems Programming and Machine Organization
 
-* ⭐Berkeley [**`CS61C`**](https://inst.eecs.berkeley.edu/~cs61c/fa20/) Machine Structures
+* Berkeley [**`CS61C`**](https://inst.eecs.berkeley.edu/~cs61c/fa20/) Machine Structures⭐
 
-* ⭐CMU [**`15-213`**](https://www.cs.cmu.edu/~213/) Intro to Computer Systems
+* CMU [**`15-213`**](https://www.cs.cmu.edu/~213/) Intro to Computer Systems⭐
 
 * MIT [`6.033`](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) Computer System Engineering
 
@@ -61,9 +61,9 @@
 
 * MIT [`6.826`](https://6826.csail.mit.edu/2020/) Principles of Computer Systems
 
-* ⭐[**`CRAFTING INTERPRETERS`**](https://craftinginterpreters.com/)
+* [**`CRAFTING INTERPRETERS`**](https://craftinginterpreters.com/)⭐
 
-* ⭐[**`DIVE INTO SYSTEMS`**](https://diveintosystems.org/)
+* [**`DIVE INTO SYSTEMS`**](https://diveintosystems.org/)⭐
 ## 🟤操作系统与网络 Operating System & Network
 * Harvard [`CS161`](https://read.seas.harvard.edu/cs161/) Operating Systems
 
@@ -71,13 +71,13 @@
 
 * JHU [`CS318`](https://www.cs.jhu.edu/~huang/cs318/fall22/) Principles of Operating Systems
 
-* ⭐Berkeley [`CS162`](https://cs162.org/) Operating Systems and Systems Programming
+* Berkeley [`CS162`](https://cs162.org/) Operating Systems and Systems Programming⭐
 
-* [**蒋炎岩 南京大学 操作系统**](https://jyywiki.cn/)
+* [蒋炎岩 南京大学 操作系统](https://jyywiki.cn/)
 
 * Standford [`CS144`](https://cs144.github.io/) Introduction to Computer Networking
 ## ⚫分布式系统与并行计算 Distributed System & Parallel Computing
-* ⭐`Robert Morris`'s MIT [**`6.824`**](https://pdos.csail.mit.edu/6.824/) Distributed Systems
+* `Robert Morris`'s MIT [**`6.824`**](https://pdos.csail.mit.edu/6.824/) Distributed Systems⭐
 
 * Stanford [`CS149`](https://cs149.stanford.edu) Parallel Computing
 
@@ -85,11 +85,11 @@
 
 * Berkeley [`CS267`](https://sites.google.com/lbl.gov/cs267-spr2023) Applications of Parallel Computers
 ## 🟡数据库系统 Database System
-* ⭐`Andy Pavlo`'s CMU [**`15-445`**](https://15445.courses.cs.cmu.edu/fall2022/) Database Systems
+* `Andy Pavlo`'s CMU [**`15-445`**](https://15445.courses.cs.cmu.edu/fall2022/) Database Systems⭐
 
 * Berkeley [`CS186`](https://cs186berkeley.net/) Introduction to Database Systems
 
-* ⭐`Andy Pavlo`'s CMU [**`15-721`**](https://15721.courses.cs.cmu.edu/spring2023/) Advanced Database Systems
+* `Andy Pavlo`'s CMU [**`15-721`**](https://15721.courses.cs.cmu.edu/spring2023/) Advanced Database Systems⭐
 ## 🟢计算机安全 Computer Security
 * Berkeley [`CS161`](https://cs161.org) Computer Security
 
@@ -101,21 +101,21 @@
 
 * MIT [`6.858`](https://css.csail.mit.edu/6.858/) Computer System Security
 
-* ⭐[**`PWN.COLLEGE`**](https://dojo.pwn.college/) Computer Systems Security
+* [**`PWN.COLLEGE`**](https://dojo.pwn.college/) Computer Systems Security⭐
 ## ⚪数学 Math
-* ⭐MIT [**`6.042J`**](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) Mathematics for Computer Science
+* MIT [**`6.042J`**](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) Mathematics for Computer Science⭐
 
 * Berkeley [`CS70`](https://www.eecs70.org/) Discrete Mathematics and Probability Theory
 
 * MIT [`6.041`](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) Probabilistic Systems Analysis And Applied Probability
 
-* ⭐MIT [**`18.06`**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) Linear Algebra
+* MIT [**`18.06`**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) Linear Algebra⭐
 
 * MIT [`18.404J`](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) Theory of Computation
 
 * CMU [`15-251`](https://www.cs251.com/) Great Ideas in Theoretical Computer Science
 ## 🤖人工智能 Artificial Intelligence
-* ⭐Berkeley [**`CS188`**](https://inst.eecs.berkeley.edu/~cs188/archives) Introduction to Artificial Intelligence
+* Berkeley [**`CS188`**](https://inst.eecs.berkeley.edu/~cs188/archives) Introduction to Artificial Intelligence⭐
 
 * Berkeley [`CS189`](https://inst.eecs.berkeley.edu/~cs189/archives) Introduction to Machine Learning
 
@@ -125,7 +125,7 @@
 
 * NYU [`DS-GA1008`](https://atcold.github.io/pytorch-Deep-Learning/) Deep Learning
 
-* ⭐李宏毅 國立臺灣大學 [**機器學習**](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+* 李宏毅 國立臺灣大學 [機器學習](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)⭐
 
 * 林軒田 國立臺灣大學 [機器學習基石上](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)+[下](https://www.coursera.org/learn/ntumlone-algorithmicfoundations)
 
@@ -157,11 +157,11 @@
 
 * Berkeley [`CS184`](https://inst.eecs.berkeley.edu/~cs184/archives) Computer Graphics and Imaging
 
-* ⭐CMU [**`15-462`**](https://youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) Computer Graphics
+* CMU [**`15-462`**](https://youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) Computer Graphics⭐
 
 * UPenn [`CIS565`](https://cis565-fall-2022.github.io/) GPU Programming and Architecture
 ## 🟠电气工程 Electrical Engineering
-* ⭐Berkeley [**`EECS16A`**](https://eecs16a.org/) Designing Information Devices and Systems I
+* Berkeley [**`EECS16A`**](https://eecs16a.org/) Designing Information Devices and Systems I⭐
 
 * Berkeley [`EECS16B`](https://eecs16b.org/) Designing Information Devices and Systems II
 
@@ -173,4 +173,4 @@
 
 * MIT [`6.003`](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) Signals and Systems
 
-* ⭐[**`THE FEYNMAN LECTURES ON PHYSICS`**](https://www.feynmanlectures.caltech.edu/)
+* [**`THE FEYNMAN LECTURES ON PHYSICS`**](https://www.feynmanlectures.caltech.edu/)⭐
