@@ -125,6 +125,8 @@
 
 * ⭐[**李宏毅 國立臺灣大學 機器學習**](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 
+* [**林軒田 國立臺灣大學 機器學習技法**](https://www.coursera.org/learn/machine-learning-techniques)
+
 * MIT [`6.S191`](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) Introduction to Deep Learning
 
 * Stanford [`CS234`](https://web.stanford.edu/class/cs234/) Reinforcement Learning
