@@ -3,7 +3,7 @@
 [![](https://img.shields.io/github/forks/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
 [![](https://img.shields.io/github/stars/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
 [![](https://img.shields.io/github/repo-size/seudonam/great-courses-online?color=blueviolet)](https://github.com/seudonam/great-courses-online)
-[![](https://img.shields.io/github/last-commit/seudonam/great-courses-online/main)](https://github.com/seudonam/great-courses-online/commits/main)
+[![](https://img.shields.io/github/last-commit/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online/commits)
 ## 🟣编程 Programming
 * `David Malan`'s Harvard [**`CS50`**](https://cs50.harvard.edu/x/2023/) Intro to the Intellectual Enterprises of CS and the Art of Programming⭐
 
