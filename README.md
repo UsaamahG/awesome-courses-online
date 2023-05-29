@@ -53,6 +53,8 @@
 
 * MIT [`6.033`](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) Computer System Engineering
 
+* 南京大学 [计算机系统基础](https://www.icourse163.org/course/NJU-1001625001)
+
 * 华中科技大学 [计算机硬件系统设计](https://www.icourse163.org/course/HUST-1205809816)
 
 * Berkeley [`CS152`](https://inst.eecs.berkeley.edu/~cs152/sp23/) Computer Architecture and Engineering
