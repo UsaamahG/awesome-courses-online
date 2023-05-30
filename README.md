@@ -77,6 +77,8 @@
 
 - 蒋炎岩 南京大学 [操作系统](https://jyywiki.cn/)
 
+- 湖科大教书匠 [计算机网络](https://www.icourse163.org/course/HNKJ-1461816178)
+
 - Standford [`CS144`](https://cs144.github.io/) Introduction to Computer Networking
 ## ⚫分布式系统与并行计算 Distributed System & Parallel Computing
 - `Robert Morris`'s MIT [**`6.824`**](https://pdos.csail.mit.edu/6.824/) Distributed Systems⭐
