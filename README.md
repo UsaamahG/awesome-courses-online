@@ -105,74 +105,76 @@
 
 * [**`PWN.COLLEGE`**](https://dojo.pwn.college/) Computer Systems Security⭐
 ## ⚪数学 Math
-* MIT [**`6.042J`**](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) Mathematics for Computer Science⭐
+- UIUC [`CS173`](https://courses.grainger.illinois.edu/cs173/sp2021/ALL-lectures/) Discrete Structures
 
-* Berkeley [`CS70`](https://www.eecs70.org/) Discrete Mathematics and Probability Theory
+- MIT [**`6.042J`**](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) Mathematics for Computer Science⭐
 
-* MIT [`6.041`](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) Probabilistic Systems Analysis And Applied Probability
+- Berkeley [`CS70`](https://www.eecs70.org/) Discrete Mathematics and Probability Theory
 
-* MIT [**`18.06`**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) Linear Algebra⭐
+- MIT [`6.041`](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) Probabilistic Systems Analysis And Applied Probability
 
-* MIT [`18.404J`](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) Theory of Computation
+- MIT [**`18.06`**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) Linear Algebra⭐
 
-* CMU [`15-251`](https://www.cs251.com/) Great Ideas in Theoretical Computer Science
+- MIT [`18.404J`](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) Theory of Computation
+
+- CMU [`15-251`](https://www.cs251.com/) Great Ideas in Theoretical Computer Science
 ## 🤖人工智能 Artificial Intelligence
-* Berkeley [**`CS188`**](https://inst.eecs.berkeley.edu/~cs188/archives) Introduction to Artificial Intelligence⭐
+- Berkeley [**`CS188`**](https://inst.eecs.berkeley.edu/~cs188/archives) Introduction to Artificial Intelligence⭐
 
-* Berkeley [`CS189`](https://inst.eecs.berkeley.edu/~cs189/archives) Introduction to Machine Learning
+- Berkeley [`CS189`](https://inst.eecs.berkeley.edu/~cs189/archives) Introduction to Machine Learning
 
-* Berkeley [`CS182`](https://inst.eecs.berkeley.edu/~cs182/sp23/) Deep Neural Networks
+- Berkeley [`CS182`](https://inst.eecs.berkeley.edu/~cs182/sp23/) Deep Neural Networks
 
-* Berkeley [`CS285`](https://rail.eecs.berkeley.edu/deeprlcourse/) Deep Reinforcement Learning
+- Berkeley [`CS285`](https://rail.eecs.berkeley.edu/deeprlcourse/) Deep Reinforcement Learning
 
-* NYU [`DS-GA1008`](https://atcold.github.io/pytorch-Deep-Learning/) Deep Learning
+- NYU [`DS-GA1008`](https://atcold.github.io/pytorch-Deep-Learning/) Deep Learning
 
-* 李宏毅 國立臺灣大學 [機器學習](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)⭐
+- 李宏毅 國立臺灣大學 [機器學習](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)⭐
 
-* 林軒田 國立臺灣大學 [機器學習基石上](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)+[下](https://www.coursera.org/learn/ntumlone-algorithmicfoundations)
+- 林軒田 國立臺灣大學 [機器學習基石上](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)+[下](https://www.coursera.org/learn/ntumlone-algorithmicfoundations)
 
-* 林軒田 國立臺灣大學 [機器學習技法](https://www.coursera.org/learn/machine-learning-techniques)
+- 林軒田 國立臺灣大學 [機器學習技法](https://www.coursera.org/learn/machine-learning-techniques)
 
-* MIT [`6.S191`](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) Introduction to Deep Learning
+- MIT [`6.S191`](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) Introduction to Deep Learning
 
-* Stanford [`CS234`](https://web.stanford.edu/class/cs234/) Reinforcement Learning
+- Stanford [`CS234`](https://web.stanford.edu/class/cs234/) Reinforcement Learning
 
-* Stanford [`CS330`](https://cs330.stanford.edu/) Deep Multi-Task and Meta Learning
+- Stanford [`CS330`](https://cs330.stanford.edu/) Deep Multi-Task and Meta Learning
 
-* Stanford [`CS224N`](https://web.stanford.edu/class/cs224n/) Natural Language Processing with Deep Learning
+- Stanford [`CS224N`](https://web.stanford.edu/class/cs224n/) Natural Language Processing with Deep Learning
 
-* Stanford [`CS224U`](https://web.stanford.edu/class/cs224u/) Natural Language Understanding
+- Stanford [`CS224U`](https://web.stanford.edu/class/cs224u/) Natural Language Understanding
 
-* Stanford [`CS224W`](https://web.stanford.edu/class/cs224w/) Machine Learning with Graphs
+- Stanford [`CS224W`](https://web.stanford.edu/class/cs224w/) Machine Learning with Graphs
 
-* Stanford [`CS231n`](https://github.com/cs231n) Deep Learning for Computer Vision
+- Stanford [`CS231n`](https://github.com/cs231n) Deep Learning for Computer Vision
 
-* Stanford [`CS324`](https://stanford-cs324.github.io/winter2022/) Large Language Models
+- Stanford [`CS324`](https://stanford-cs324.github.io/winter2022/) Large Language Models
 
-* UPenn [`ESE5140`](https://gnn.seas.upenn.edu/) Graph Neural Networks
+- UPenn [`ESE5140`](https://gnn.seas.upenn.edu/) Graph Neural Networks
 
-* CMU [`10-708`](https://sailinglab.github.io/pgm-spring-2019/) Probabilistic Graphical Models
+- CMU [`10-708`](https://sailinglab.github.io/pgm-spring-2019/) Probabilistic Graphical Models
 
-* Berkeley [`Data100`](https://ds100.org/sp22/) Principles and Techniques of Data Science
+- Berkeley [`Data100`](https://ds100.org/sp22/) Principles and Techniques of Data Science
 ## 🕹计算机图形学 Computer Graphics
-* Stanford [`CS148`](https://cs148.stanford.edu/) Introduction to Computer Graphics and Imaging
+- Stanford [`CS148`](https://cs148.stanford.edu/) Introduction to Computer Graphics and Imaging
 
-* Berkeley [`CS184`](https://inst.eecs.berkeley.edu/~cs184/archives) Computer Graphics and Imaging
+- Berkeley [`CS184`](https://inst.eecs.berkeley.edu/~cs184/archives) Computer Graphics and Imaging
 
-* CMU [**`15-462`**](https://youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) Computer Graphics⭐
+- CMU [**`15-462`**](https://youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) Computer Graphics⭐
 
-* UPenn [`CIS565`](https://cis565-fall-2022.github.io/) GPU Programming and Architecture
+- UPenn [`CIS565`](https://cis565-fall-2022.github.io/) GPU Programming and Architecture
 ## 🟠电气工程 Electrical Engineering
-* Berkeley [**`EECS16A`**](https://eecs16a.org/) Designing Information Devices and Systems I⭐
+- Berkeley [**`EECS16A`**](https://eecs16a.org/) Designing Information Devices and Systems I⭐
 
-* Berkeley [`EECS16B`](https://eecs16b.org/) Designing Information Devices and Systems II
+- Berkeley [`EECS16B`](https://eecs16b.org/) Designing Information Devices and Systems II
 
-* Berkeley [`EE120`](https://inst.eecs.berkeley.edu/~ee120/fa19/) Signals and Systems
+- Berkeley [`EE120`](https://inst.eecs.berkeley.edu/~ee120/fa19/) Signals and Systems
 
-* Berkeley [`EECS127`](https://inst.eecs.berkeley.edu/~ee127/archives) Optimization Models in Engineering
+- Berkeley [`EECS127`](https://inst.eecs.berkeley.edu/~ee127/archives) Optimization Models in Engineering
 
-* Berkeley [`EECS151`](https://inst.eecs.berkeley.edu/~eecs151/archives) Introduction to Digital Design and Integrated Circuits
+- Berkeley [`EECS151`](https://inst.eecs.berkeley.edu/~eecs151/archives) Introduction to Digital Design and Integrated Circuits
 
-* MIT [`6.003`](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) Signals and Systems
+- MIT [`6.003`](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) Signals and Systems
 
-* [**`THE FEYNMAN LECTURES ON PHYSICS`**](https://www.feynmanlectures.caltech.edu/)⭐
+- [**`THE FEYNMAN LECTURES ON PHYSICS`**](https://www.feynmanlectures.caltech.edu/)⭐
