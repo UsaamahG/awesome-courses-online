@@ -178,5 +178,3 @@
 - Berkeley [`EECS151`](https://inst.eecs.berkeley.edu/~eecs151/archives) Introduction to Digital Design and Integrated Circuits
 
 - MIT [`6.003`](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) Signals and Systems
-
-- [**`THE FEYNMAN LECTURES ON PHYSICS`**](https://www.feynmanlectures.caltech.edu/)⭐
