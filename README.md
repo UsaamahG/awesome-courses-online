@@ -39,11 +39,11 @@
 
 - MIT [`6.851`](https://courses.csail.mit.edu/6.851/) Advanced Data Structures
 
-- Coursera Algorithms[**`Part1`**](https://www.coursera.org/learn/algorithms-part1)+[**`Part2`**](https://www.coursera.org/learn/algorithms-part2)⭐
+- Coursera Algorithms[`Part1`](https://www.coursera.org/learn/algorithms-part1)+[`Part2`](https://www.coursera.org/learn/algorithms-part2)⭐
 ## 🔵计算机组成与系统编程 Computer Organization & System Programming
 - Coursera From Nand to Tetris [`Part 1`](https://www.coursera.org/learn/build-a-computer) + [`Part 2`](https://www.coursera.org/learn/nand2tetris2)
 
-- [**`Onur Mutlu`**](https://safari.ethz.ch/courses/)'s ETH Zurich Digital Design and Computer Architecture⭐
+- [`Onur Mutlu`](https://safari.ethz.ch/courses/)'s ETH Zurich Digital Design and Computer Architecture⭐
 
 - `Eddie Kohler`'s Harvard [`CS61`](https://cs61.seas.harvard.edu/) Systems Programming and Machine Organization
 
@@ -64,8 +64,6 @@
 - MIT [`6.826`](https://6826.csail.mit.edu/2020/) Principles of Computer Systems
 
 - [**`CRAFTING INTERPRETERS`**](https://craftinginterpreters.com/)⭐
-
-- [**`DIVE INTO SYSTEMS`**](https://diveintosystems.org/)⭐
 ## 🟤操作系统与网络 Operating System & Network
 - Harvard [`CS161`](https://read.seas.harvard.edu/cs161/) Operating Systems
 
