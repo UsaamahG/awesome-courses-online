@@ -41,6 +41,8 @@
 
 - MIT [`6.851`](https://courses.csail.mit.edu/6.851/) Advanced Data Structures📺
 
+- MIT [`6.890`](https://ocw.mit.edu/courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) Algorithmic Lower Bounds📺
+
 - Coursera Algorithms[`Part1`](https://www.coursera.org/learn/algorithms-part1)+[`Part2`](https://www.coursera.org/learn/algorithms-part2)📺⭐
 ## 🔵计算机组成与系统编程 Computer Organization & System Programming
 - Coursera From Nand to Tetris [`Part 1`](https://www.coursera.org/learn/build-a-computer) + [`Part 2`](https://www.coursera.org/learn/nand2tetris2)📺
