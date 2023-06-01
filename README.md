@@ -38,6 +38,8 @@
 
 - Berkeley [`CS170`](https://cs170.org/) Efficient Algorithms and Intractable Problems
 
+- UIUC [`CS374`](https://courses.engr.illinois.edu/cs374/sp2018/A/) Algorithms & Models of Computation📺
+
 - MIT [`6.046J`](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) Design and Analysis of Algorithms📺
 
 - MIT [`6.851`](https://courses.csail.mit.edu/6.851/) Advanced Data Structures📺
