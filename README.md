@@ -24,6 +24,8 @@
 - MIT [`6.005`](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/) Software Construction
 
 - MIT The [**`Missing Semester`**](https://missing.csail.mit.edu/) of Your CS Education📺
+
+- Harvard [`CS51`](https://cs51.io/) Abstraction and Design in Computation
 ## 🔴算法与数据结构 Algorithm & Data Structure
 - MIT [`6.006`](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) Introduction to Algorithms📺
 
