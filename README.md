@@ -1,19 +1,18 @@
 ## awesome-courses-online
 [![](https://img.shields.io/github/license/seudonam/great-courses-online?color=red)](https://github.com/seudonam/great-courses-online/blob/main/LICENSE)
-[![](https://img.shields.io/github/forks/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
 [![](https://img.shields.io/github/stars/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
 [![](https://img.shields.io/github/repo-size/seudonam/great-courses-online?color=blueviolet)](https://github.com/seudonam/great-courses-online)
 [![](https://img.shields.io/github/last-commit/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online/commits)
 ## 🟣编程 Programming
 - `David Malan`'s Harvard [**`CS50`**](https://cs50.harvard.edu/x/2023/) Intro to the Intellectual Enterprises of CS and the Art of Programming📺⭐
 
+- MIT [`6.0001`](https://ocw.mit.edu/6-0001F16)+[`2`](https://ocw.mit.edu/6-0002F16) Intro to Computational Thinking and Data Science📺
+
+- Coursera Computer Science [`Part 1`](https://www.coursera.org/learn/cs-programming-java) + [`Part 2`](https://www.coursera.org/learn/cs-algorithms-theory-machines)📺
+
 - `John DeNero`'s Berkeley [**`CS61A`**](https://cs61a.org/) Structure and Interpretation of Computer Programs📺⭐
 
-- Coursera Computer Science: An Interdisciplinary Approach [`Part 1`](https://www.coursera.org/learn/cs-programming-java) + [`Part 2`](https://www.coursera.org/learn/cs-algorithms-theory-machines)📺
-
 - `James Juett`'s UMich [`EECS280`](https://eecs280.org/archive/) Programming and Intro Data Structures📺
-
-- MIT [`6.0001`](https://ocw.mit.edu/6-0001F16)+[`2`](https://ocw.mit.edu/6-0002F16) Intro to Computational Thinking and Data Science📺
 
 - MIT [`6.S083`](https://computationalthinking.mit.edu) Introduction To Computational Thinking📺
 
@@ -33,7 +32,9 @@
 
 - Princeton [`COS226`](https://www.princeton.edu/~cos226/) Algorithms and Data Structures
 
-- Stanford [`CS161`](https://web.stanford.edu/class/cs161/) Design and Analysis of Algorithms📺
+- Coursera Algorithms[`Part 1`](https://www.coursera.org/learn/algorithms-part1)+[`Part 2`](https://www.coursera.org/learn/algorithms-part2)📺⭐
+
+- Stanford [`CS161`](https://web.stanford.edu/class/cs161/) Design and Analysis of Algorithms
 
 - Berkeley [`CS170`](https://cs170.org/) Efficient Algorithms and Intractable Problems
 
@@ -42,8 +43,6 @@
 - MIT [`6.851`](https://courses.csail.mit.edu/6.851/) Advanced Data Structures📺
 
 - MIT [`6.890`](https://ocw.mit.edu/courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) Algorithmic Lower Bounds📺
-
-- Coursera Algorithms[`Part1`](https://www.coursera.org/learn/algorithms-part1)+[`Part2`](https://www.coursera.org/learn/algorithms-part2)📺⭐
 ## 🔵计算机组成与系统编程 Computer Organization & System Programming
 - Coursera From Nand to Tetris [`Part 1`](https://www.coursera.org/learn/build-a-computer) + [`Part 2`](https://www.coursera.org/learn/nand2tetris2)📺
 
@@ -115,9 +114,9 @@
 
 - Berkeley [`CS70`](https://www.eecs70.org/) Discrete Mathematics and Probability Theory
 
-- MIT [`6.041`](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) Probabilistic Systems Analysis And Applied Probability📺
-
 - Berkeley [`EECS126`](https://inst.eecs.berkeley.edu/~ee126/archives) Probability and Random Processes
+
+- MIT [`6.041`](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) Probabilistic Systems Analysis And Applied Probability📺
 
 - MIT [**`18.06`**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) Linear Algebra📺⭐
 
