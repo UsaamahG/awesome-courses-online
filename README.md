@@ -13,7 +13,7 @@
 
 - `James Juett`'s UMich [`EECS280`](https://eecs280.org/archive/) Programming and Intro Data Structures📺
 
-- MIT [`6.0001+2`](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) Intro to Computational Thinking and Data Science📺
+- MIT [`6.0001`](https://ocw.mit.edu/6-0001F16)+[`2`](https://ocw.mit.edu/6-0002F16) Intro to Computational Thinking and Data Science📺
 
 - MIT [`6.S083`](https://computationalthinking.mit.edu) Introduction To Computational Thinking📺
 
@@ -51,11 +51,13 @@
 
 - CMU [**`15-213`**](https://www.cs.cmu.edu/~213/) Intro to Computer Systems📺⭐
 
-- MIT [`6.033`](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) Computer System Engineering
-
 - 南京大学 [计算机系统基础](https://www.icourse163.org/course/NJU-1001625001)📺
 
 - 华中科技大学 [计算机硬件系统设计](https://www.icourse163.org/course/HUST-1205809816)📺
+
+- MIT [`6.033`](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) Computer System Engineering
+
+- [`Onur Mutlu`](https://safari.ethz.ch/courses/)'s ETH Zurich Computer Architecture📺
 
 - Berkeley [`CS152`](https://inst.eecs.berkeley.edu/~cs152/sp23/) Computer Architecture and Engineering📺
 
@@ -151,7 +153,7 @@
 
 - Stanford [`CS324`](https://stanford-cs324.github.io/winter2022/) Large Language Models
 
-- UPenn [`ESE5140`](https://gnn.seas.upenn.edu/) Graph Neural Networks
+- UPenn [`ESE5140`](https://gnn.seas.upenn.edu/) Graph Neural Networks📺
 
 - CMU [`10-708`](https://sailinglab.github.io/pgm-spring-2019/) Probabilistic Graphical Models📺
 
