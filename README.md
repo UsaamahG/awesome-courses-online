@@ -23,7 +23,7 @@
 
 - MIT [`6.005`](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/) Software Construction
 
-- MIT The [**`Missing Semester`**](https://missing.csail.mit.edu/) of Your CS Education
+- MIT The [**`Missing Semester`**](https://missing.csail.mit.edu/) of Your CS Education📺
 ## 🔴算法与数据结构 Algorithm & Data Structure
 - MIT [`6.006`](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) Introduction to Algorithms📺
 
@@ -65,7 +65,7 @@
 ## 🟤操作系统与网络 Operating System & Network
 - Harvard [`CS161`](https://read.seas.harvard.edu/cs161/) Operating Systems
 
-- MIT [`6.828`](https://pdos.csail.mit.edu/6.828/) Operating System Engineering
+- MIT [`6.828`](https://pdos.csail.mit.edu/6.828/) Operating System Engineering📺
 
 - JHU [`CS318`](https://www.cs.jhu.edu/~huang/cs318/fall22/) Principles of Operating Systems
 
@@ -163,7 +163,7 @@
 
 - CMU [**`15-462`**](https://youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) Computer Graphics📺⭐
 
-- UPenn [`CIS565`](https://cis565-fall-2022.github.io/) GPU Programming and Architecture
+- UPenn [`CIS565`](https://cis565-fall-2022.github.io/) GPU Programming and Architecture📺
 ## 🟠电气工程 Electrical Engineering
 - Berkeley [**`EECS16A`**](https://eecs16a.org/) Designing Information Devices and Systems I📺⭐
 
