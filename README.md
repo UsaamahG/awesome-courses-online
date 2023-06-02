@@ -26,17 +26,17 @@
 
 - Harvard [`CS51`](https://cs51.io/) Abstraction and Design in Computation
 ## 🔴算法与数据结构 Algorithm & Data Structure
-- MIT [`6.006`](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) Introduction to Algorithms📺
-
 - `Josh Hug`'s Berkeley [**`CS61B`**](https://sp21.datastructur.es/) Data Structures📺⭐
 
 - Princeton [`COS226`](https://www.princeton.edu/~cos226/) Algorithms and Data Structures
 
 - Coursera Algorithms[`Part 1`](https://www.coursera.org/learn/algorithms-part1)+[`Part 2`](https://www.coursera.org/learn/algorithms-part2)📺⭐
 
+- MIT [`6.006`](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) Introduction to Algorithms📺
+
 - Stanford [`CS161`](https://web.stanford.edu/class/cs161/) Design and Analysis of Algorithms
 
-- Berkeley [`CS170`](https://cs170.org/) Efficient Algorithms and Intractable Problems
+- Berkeley [`CS170`](https://cs170.org/) Efficient Algorithms and Intractable Problems📺
 
 - UIUC [`CS374`](https://courses.engr.illinois.edu/cs374/sp2018/A/) Algorithms & Models of Computation📺
 
@@ -116,7 +116,9 @@
 
 - Berkeley [`CS70`](https://www.eecs70.org/) Discrete Mathematics and Probability Theory
 
-- Berkeley [`EECS126`](https://inst.eecs.berkeley.edu/~ee126/archives) Probability and Random Processes
+- Berkeley [`EE126`](https://inst.eecs.berkeley.edu/~ee126/archives) Probability and Random Processes
+
+- Berkeley [`EE127`](https://inst.eecs.berkeley.edu/~ee127/archives) Optimization Models in Engineering📺
 
 - MIT [`6.041`](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) Probabilistic Systems Analysis And Applied Probability📺
 
@@ -176,9 +178,9 @@
 
 - Berkeley [`EECS16B`](https://eecs16b.org/) Designing Information Devices and Systems II
 
-- Berkeley [`EE120`](https://inst.eecs.berkeley.edu/~ee120/fa19/) Signals and Systems
+- Berkeley [`EE105`](https://inst.eecs.berkeley.edu/~ee105/fa20/) Microelectronic Devices and Circuits📺
 
-- Berkeley [`EECS127`](https://inst.eecs.berkeley.edu/~ee127/archives) Optimization Models in Engineering📺
+- Berkeley [`EE120`](https://inst.eecs.berkeley.edu/~ee120/fa19/) Signals and Systems
 
 - Berkeley [`EECS151`](https://inst.eecs.berkeley.edu/~eecs151/archives) Introduction to Digital Design and Integrated Circuits📺
 
