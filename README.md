@@ -38,13 +38,15 @@
 
 - Berkeley [`CS170`](https://cs170.org/) Efficient Algorithms and Intractable Problems📺
 
-- UIUC [`CS374`](https://courses.engr.illinois.edu/cs374/sp2018/A/) Algorithms & Models of Computation📺
+- UIUC [`CS374`](https://courses.engr.illinois.edu/cs374/sp2018/A/) Algorithms and Models of Computation📺
 
 - MIT [`6.046J`](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) Design and Analysis of Algorithms📺
 
 - MIT [`6.851`](https://courses.csail.mit.edu/6.851/) Advanced Data Structures📺
 
 - MIT [`6.890`](https://ocw.mit.edu/courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) Algorithmic Lower Bounds📺
+
+- Berkeley [`CS270`](https://cs270.org/) Combinatorial Algorithms and Data Structures
 ## 🔵计算机组成与系统编程 Computer Organization & System Programming
 - Coursera From Nand to Tetris [`Part 1`](https://www.coursera.org/learn/build-a-computer) + [`Part 2`](https://www.coursera.org/learn/nand2tetris2)📺
 
@@ -120,7 +122,7 @@
 
 - Berkeley [`EE127`](https://inst.eecs.berkeley.edu/~ee127/archives) Optimization Models in Engineering📺
 
-- MIT [`6.041`](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) Probabilistic Systems Analysis And Applied Probability📺
+- MIT [`6.041`](https://ocw.mit.edu/6-041F10) Probabilistic Systems Analysis And Applied Probability📺
 
 - MIT [**`18.06`**](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) Linear Algebra📺⭐
 
