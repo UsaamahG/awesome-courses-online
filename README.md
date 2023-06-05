@@ -32,7 +32,7 @@
 
 - Coursera Algorithms[`Part 1`](https://www.coursera.org/learn/algorithms-part1)+[`Part 2`](https://www.coursera.org/learn/algorithms-part2)📺⭐
 
-- MIT [`6.006`](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) Introduction to Algorithms📺
+- MIT [`6.006`](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) Introduction to Algorithms📺⭐
 
 - Stanford [`CS161`](https://web.stanford.edu/class/cs161/) Design and Analysis of Algorithms
 
@@ -47,6 +47,8 @@
 - MIT [`6.890`](https://ocw.mit.edu/courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) Algorithmic Lower Bounds📺
 
 - Berkeley [`CS270`](https://cs270.org/) Combinatorial Algorithms and Data Structures
+
+- Stanford [`CS265`](https://web.stanford.edu/class/archive/cs/cs265/cs265.1232/) Randomized Algorithms and Probabilistic Analysis
 ## 🔵计算机组成与系统编程 Computer Organization & System Programming
 - Coursera From Nand to Tetris [`Part 1`](https://www.coursera.org/learn/build-a-computer) + [`Part 2`](https://www.coursera.org/learn/nand2tetris2)📺
 
@@ -176,7 +178,7 @@
 
 - UPenn [`CIS565`](https://cis565-fall-2022.github.io/) GPU Programming and Architecture📺
 ## 🟠电气工程 Electrical Engineering
-- Berkeley [**`EECS16A`**](https://eecs16a.org/) Designing Information Devices and Systems I📺⭐
+- Berkeley [**`EECS16A`**](https://eecs16a.org/) Designing Information Devices and Systems I📺
 
 - Berkeley [`EECS16B`](https://eecs16b.org/) Designing Information Devices and Systems II
 
