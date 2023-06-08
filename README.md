@@ -12,7 +12,7 @@
 
 - `John DeNero`'s Berkeley [**`CS61A`**](https://cs61a.org/) Structure and Interpretation of Computer Programs📺⭐
 
-- `James Juett`'s UMich [`EECS280`](https://eecs280.org/archive/) Programming and Intro Data Structures📺
+- UMich [`EECS280`](https://eecs280.org/archive/) Programming and Intro Data Structures📺
 
 - MIT [`6.S083`](https://computationalthinking.mit.edu) Introduction To Computational Thinking📺
 
@@ -80,7 +80,7 @@
 
 - Berkeley [`CS162`](https://cs162.org/) Operating Systems and Systems Programming📺⭐
 
-- 蒋炎岩 南京大学 [操作系统](https://jyywiki.cn/)📺
+- JYY 南京大学 [操作系统](https://jyywiki.cn/)📺
 
 - 湖科大教书匠 [计算机网络](https://www.icourse163.org/course/HNKJ-1461816178)📺
 
@@ -142,9 +142,9 @@
 
 - 李宏毅 國立臺灣大學 [機器學習](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)📺⭐
 
-- 林軒田 國立臺灣大學 [機器學習基石上](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)+[下](https://www.coursera.org/learn/ntumlone-algorithmicfoundations)📺
+- 國立臺灣大學 [機器學習基石上](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)+[下](https://www.coursera.org/learn/ntumlone-algorithmicfoundations)📺
 
-- 林軒田 國立臺灣大學 [機器學習技法](https://www.coursera.org/learn/machine-learning-techniques)📺
+- 國立臺灣大學 [機器學習技法](https://www.coursera.org/learn/machine-learning-techniques)📺
 
 - MIT [`6.S191`](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) Introduction to Deep Learning📺
 
