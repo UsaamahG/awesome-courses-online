@@ -8,7 +8,7 @@
 
 - MIT [`6.0001`](https://ocw.mit.edu/6-0001F16)+[`2`](https://ocw.mit.edu/6-0002F16) Intro to Computational Thinking and Data Science📺
 
-- Coursera Computer Science [`Part 1`](https://www.coursera.org/learn/cs-programming-java) + [`Part 2`](https://www.coursera.org/learn/cs-algorithms-theory-machines)📺
+- Coursera Computer Science [`Part 1`](https://www.coursera.org/learn/cs-programming-java) + [`Part 2`](https://www.coursera.org/learn/cs-algorithms-theory-machines)📺⭐
 
 - `John DeNero`'s Berkeley [**`CS61A`**](https://cs61a.org/) Structure and Interpretation of Computer Programs📺⭐
 
@@ -16,13 +16,13 @@
 
 - MIT [`6.S083`](https://computationalthinking.mit.edu) Introduction To Computational Thinking📺
 
-- Stanford [`CS106B`](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1224/) Programming Abstractions
-
-- Stanford [`CS107`](https://see.stanford.edu/Course/CS107) Programming Paradigms📺
-
 - MIT [`6.005`](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/) Software Construction
 
 - MIT The [**`Missing Semester`**](https://missing.csail.mit.edu/) of Your CS Education📺
+
+- Stanford [`CS106B`](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1224/) Programming Abstractions
+
+- Stanford [`CS107`](https://see.stanford.edu/Course/CS107) Programming Paradigms📺
 
 - Harvard [`CS51`](https://cs51.io/) Abstraction and Design in Computation
 ## 🔴算法与数据结构 Algorithm & Data Structure
@@ -50,8 +50,6 @@
 
 - Stanford [`CS265`](https://web.stanford.edu/class/archive/cs/cs265/cs265.1232/) Randomized Algorithms and Probabilistic Analysis
 ## 🔵计算机组成与系统编程 Computer Organization & System Programming
-- Coursera From Nand to Tetris [`Part 1`](https://www.coursera.org/learn/build-a-computer) + [`Part 2`](https://www.coursera.org/learn/nand2tetris2)📺
-
 - [`Onur Mutlu`](https://safari.ethz.ch/courses/)'s ETH Zurich Digital Design and Computer Architecture📺⭐
 
 - `Eddie Kohler`'s Harvard [`CS61`](https://cs61.seas.harvard.edu/) Systems Programming and Machine Organization
