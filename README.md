@@ -160,7 +160,7 @@
 
 - Stanford [`CS231n`](https://github.com/cs231n) Deep Learning for Computer Vision📺
 
-- Stanford [`CS324`](https://stanford-cs324.github.io/winter2022/) Large Language Models
+- Stanford [`CS324`](https://stanford-cs324.github.io/winter2023/) Large Language Models
 
 - UPenn [`ESE5140`](https://gnn.seas.upenn.edu/) Graph Neural Networks📺
 
