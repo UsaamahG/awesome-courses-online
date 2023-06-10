@@ -44,7 +44,7 @@
 
 - MIT [`6.851`](https://courses.csail.mit.edu/6.851/) Advanced Data Structures📺
 
-- MIT [`6.890`](https://ocw.mit.edu/courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) Algorithmic Lower Bounds📺
+- MIT [`6.890`](https://ocw.mit.edu/6-890F14) Algorithmic Lower Bounds📺
 
 - Berkeley [`CS270`](https://cs270.org/) Combinatorial Algorithms and Data Structures
 
@@ -114,7 +114,7 @@
 ## ⚪数学 Math
 - UIUC [`CS173`](https://courses.grainger.illinois.edu/cs173/sp2021/ALL-lectures/) Discrete Structures📺
 
-- MIT [**`6.042J`**](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) Mathematics for Computer Science📺⭐
+- MIT [**`6.042J`**](https://ocw.mit.edu/6-042JF10) Mathematics for Computer Science📺⭐
 
 - Berkeley [`CS70`](https://www.eecs70.org/) Discrete Mathematics and Probability Theory
 
