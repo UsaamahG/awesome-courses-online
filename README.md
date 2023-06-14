@@ -1,8 +1,8 @@
 ## awesome-courses-online
-[![](https://img.shields.io/github/license/seudonam/great-courses-online?color=red)](https://github.com/seudonam/great-courses-online/blob/main/LICENSE)
-[![](https://img.shields.io/github/stars/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online)
-[![](https://img.shields.io/github/repo-size/seudonam/great-courses-online?color=blueviolet)](https://github.com/seudonam/great-courses-online)
-[![](https://img.shields.io/github/last-commit/seudonam/great-courses-online)](https://github.com/seudonam/great-courses-online/commits)
+[![](https://img.shields.io/github/license/seudonam/awesome-courses-online?color=red)](https://github.com/seudonam/awesome-courses-online/blob/main/LICENSE)
+[![](https://img.shields.io/github/stars/seudonam/awesome-courses-online)](https://github.com/seudonam/awesome-courses-online)
+[![](https://img.shields.io/github/repo-size/seudonam/awesome-courses-online?color=blueviolet)](https://github.com/seudonam/awesome-courses-online)
+[![](https://img.shields.io/github/last-commit/seudonam/awesome-courses-online)](https://github.com/seudonam/awesome-courses-online/commits)
 ## 🟣编程 Programming
 - `David Malan`'s Harvard [`CS50`](https://cs50.harvard.edu/x/2023/) Intro to the Intellectual Enterprises of CS and the Art of Programming📺⭐
 
@@ -10,7 +10,7 @@
 
 - Coursera Computer Science [`Part 1`](https://www.coursera.org/learn/cs-programming-java) + [`Part 2`](https://www.coursera.org/learn/cs-algorithms-theory-machines)📺⭐
 
-- `John DeNero`'s Berkeley [**`CS61A`**](https://inst.eecs.berkeley.edu/~cs61a/sp20/) Structure and Interpretation of Computer Programs📺⭐
+- `John DeNero`'s Berkeley [`CS61A`](https://inst.eecs.berkeley.edu/~cs61a/sp20/) Structure and Interpretation of Computer Programs📺⭐
 
 - UMich [`EECS280`](https://eecs280.org/archive/) Programming and Intro Data Structures📺
 
@@ -26,7 +26,7 @@
 
 - Harvard [`CS51`](https://cs51.io/) Abstraction and Design in Computation
 ## 🔴算法与数据结构 Algorithm & Data Structure
-- `Josh Hug`'s Berkeley [**`CS61B`**](https://inst.eecs.berkeley.edu/~cs61b/archives) Data Structures📺⭐
+- `Josh Hug`'s Berkeley [`CS61B`](https://inst.eecs.berkeley.edu/~cs61b/archives) Data Structures📺⭐
 
 - Princeton [`COS226`](https://www.princeton.edu/~cos226/) Algorithms and Data Structures
 
@@ -54,7 +54,7 @@
 
 - `Eddie Kohler`'s Harvard [`CS61`](https://cs61.seas.harvard.edu/) Systems Programming and Machine Organization
 
-- Berkeley [**`CS61C`**](https://inst.eecs.berkeley.edu/~cs61c/fa20/) Machine Structures📺⭐
+- Berkeley [`CS61C`](https://inst.eecs.berkeley.edu/~cs61c/fa20/) Machine Structures📺⭐
 
 - CMU [`15-213`](https://www.cs.cmu.edu/~213/) Intro to Computer Systems📺⭐
 
@@ -86,7 +86,7 @@
 
 - Standford [`CS144`](https://cs144.github.io/) Introduction to Computer Networking
 ## ⚫分布式系统与并行计算 Distributed System & Parallel Computing
-- MIT [**`6.824`**](https://pdos.csail.mit.edu/6.824/) Distributed Systems📺⭐
+- MIT [`6.824`](https://pdos.csail.mit.edu/6.824/) Distributed Systems📺⭐
 
 - Stanford [`CS149`](https://cs149.stanford.edu) Parallel Computing
 
@@ -94,11 +94,11 @@
 
 - Berkeley [`CS267`](https://sites.google.com/lbl.gov/cs267-spr2023) Applications of Parallel Computers📺
 ## 🟡数据库系统 Database System
-- `Andy Pavlo`'s CMU [**`15-445`**](https://15445.courses.cs.cmu.edu/fall2022/) Database Systems📺⭐
+- `Andy Pavlo`'s CMU [`15-445`](https://15445.courses.cs.cmu.edu/fall2022/) Database Systems📺⭐
 
 - Berkeley [`CS186`](https://cs186berkeley.net/) Introduction to Database Systems📺
 
-- `Andy Pavlo`'s CMU [**`15-721`**](https://15721.courses.cs.cmu.edu/spring2023/) Advanced Database Systems📺⭐
+- `Andy Pavlo`'s CMU [`15-721`](https://15721.courses.cs.cmu.edu/spring2023/) Advanced Database Systems📺⭐
 ## 🟢计算机安全 Computer Security
 - Berkeley [`CS161`](https://inst.eecs.berkeley.edu/~cs161/archives) Computer Security
 
@@ -108,7 +108,7 @@
 
 - Stanford [`CS255`](https://crypto.stanford.edu/~dabo/cs255//) Introduction to Cryptography
 
-- MIT [**`6.858`**](https://css.csail.mit.edu/6.858/) Computer System Security📺⭐
+- MIT [`6.858`](https://css.csail.mit.edu/6.858/) Computer System Security📺⭐
 
 - [`PWN.COLLEGE`](https://dojo.pwn.college/) Computer Systems Security📺⭐
 ## ⚪数学 Math
@@ -130,7 +130,7 @@
 
 - CMU [`15-251`](https://www.cs251.com/) Great Ideas in Theoretical Computer Science📺
 ## 🤖人工智能 Artificial Intelligence
-- Berkeley [**`CS188`**](https://inst.eecs.berkeley.edu/~cs188/archives) Introduction to Artificial Intelligence📺⭐
+- Berkeley [`CS188`](https://inst.eecs.berkeley.edu/~cs188/archives) Introduction to Artificial Intelligence📺⭐
 
 - Berkeley [`CS189`](https://inst.eecs.berkeley.edu/~cs189/archives) Introduction to Machine Learning📺
 
