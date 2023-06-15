@@ -8,7 +8,7 @@
 
 - MIT [`6.0001`](https://ocw.mit.edu/6-0001F16)+[`2`](https://ocw.mit.edu/6-0002F16) Intro to Computational Thinking and Data Science📺
 
-- Coursera Computer Science [`Part 1`](https://www.coursera.org/learn/cs-programming-java) + [`Part 2`](https://www.coursera.org/learn/cs-algorithms-theory-machines)📺⭐
+- Coursera Computer Science [`1`](https://www.coursera.org/learn/cs-programming-java)+[`2`](https://www.coursera.org/learn/cs-algorithms-theory-machines)📺⭐
 
 - `John DeNero`'s Berkeley [`CS61A`](https://inst.eecs.berkeley.edu/~cs61a/sp20/) Structure and Interpretation of Computer Programs📺⭐
 
@@ -30,7 +30,7 @@
 
 - Princeton [`COS226`](https://www.princeton.edu/~cos226/) Algorithms and Data Structures
 
-- Coursera Algorithms[`Part 1`](https://www.coursera.org/learn/algorithms-part1)+[`Part 2`](https://www.coursera.org/learn/algorithms-part2)📺⭐
+- Coursera Algorithms[`1`](https://www.coursera.org/learn/algorithms-part1)+[`2`](https://www.coursera.org/learn/algorithms-part2)📺⭐
 
 - MIT [`6.006`](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/) Introduction to Algorithms📺⭐
 
