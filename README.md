@@ -122,9 +122,11 @@
 
 - Berkeley [`EE127`](https://inst.eecs.berkeley.edu/~ee127/archives) Optimization Models in Engineering📺
 
-- MIT [`6.041`](https://ocw.mit.edu/6-041F10) Probabilistic Systems Analysis And Applied Probability📺
+- MIT [`6.041`](https://ocw.mit.edu/6-041F10) Probabilistic Systems Analysis and Applied Probability📺
 
 - MIT [`18.06`](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) Linear Algebra📺⭐
+
+- MIT [`18.065`](https://ocw.mit.edu/18-065S18) MIT 18.065 Matrix Methods in Data Analysis Signal Processing Machine Learning📺
 
 - MIT [`18.404J`](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) Theory of Computation📺
 
