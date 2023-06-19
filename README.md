@@ -15,7 +15,7 @@
 
 - MIT [`6.S083`](https://computationalthinking.mit.edu) Introduction To Computational Thinking📺
 
-- MIT [`6.005`](https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/) Software Construction
+- MIT [`6.005`](https://web.mit.edu/6.005/www/archive/) Software Construction
 
 - MIT The [`Missing Semester`](https://missing.csail.mit.edu/) of Your CS Education📺
 
