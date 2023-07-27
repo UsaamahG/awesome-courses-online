@@ -94,6 +94,8 @@
 - CMU [`15-418`](https://www.cs.cmu.edu/~418/) Parallel Computer Architecture and Programming📺
 
 - Berkeley [`CS267`](https://sites.google.com/lbl.gov/cs267-spr2023) Applications of Parallel Computers📺
+
+- MIT [`6.172`](https://ocw.mit.edu/6-172F18) Performance Engineering of Software Systems📺
 ## 🟡数据库系统 Database System
 - `Andy Pavlo`'s CMU [`15-445`](https://15445.courses.cs.cmu.edu/fall2022/) Database Systems📺⭐
 
