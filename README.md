@@ -51,6 +51,8 @@
 
 - Stanford [`CS265`](https://web.stanford.edu/class/archive/cs/cs265/cs265.1232/) Randomized Algorithms and Probabilistic Analysis
 
+- SBU [`CSE373`](https://www3.cs.stonybrook.edu/~skiena/373/) Analysis of Algorithms📺
+
 - UIUC [`CS473`](https://courses.engr.illinois.edu/cs473/fa2022/) Algorithms📺
 ## 🔵计算机组成与系统编程 Computer Organization & System Programming
 - [`Onur Mutlu`](https://safari.ethz.ch/courses/)'s ETH Zurich Digital Design and Computer Architecture📺⭐
