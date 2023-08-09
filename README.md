@@ -19,11 +19,13 @@
 
 - MIT The [`Missing Semester`](https://missing.csail.mit.edu/) of Your CS Education📺
 
+- Harvard [`CS51`](https://cs51.io/) Abstraction and Design in Computation
+
 - Stanford [`CS106B`](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1224/) Programming Abstractions
 
 - Stanford [`CS107`](https://see.stanford.edu/Course/CS107) Programming Paradigms📺
 
-- Harvard [`CS51`](https://cs51.io/) Abstraction and Design in Computation
+- Stanford [`CS106L`](https://web.stanford.edu/class/cs106l/) Standard C++ Programming
 ## 🔴算法与数据结构 Algorithm & Data Structure
 - `Josh Hug`'s Berkeley [`CS61B`](https://inst.eecs.berkeley.edu/~cs61b/archives) Data Structures📺⭐
 
