@@ -1,4 +1,4 @@
-[![](![awesome-courses-online](https://socialify.git.ci/seudonam/awesome-courses-online/image?font=Raleway&forks=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Auto))](https://github.com/seudonam/awesome-courses-online)
+[![](https://socialify.git.ci/seudonam/awesome-courses-online/image?font=Raleway&forks=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Auto)](https://github.com/seudonam/awesome-courses-online)
 [![](https://img.shields.io/github/license/seudonam/awesome-courses-online?color=red)](https://github.com/seudonam/awesome-courses-online/blob/main/LICENSE)
 [![](https://img.shields.io/github/last-commit/seudonam/awesome-courses-online?color=blueviolet)](https://github.com/seudonam/awesome-courses-online/commits)
 ## 🟣编程 Programming
