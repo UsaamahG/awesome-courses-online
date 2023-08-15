@@ -1,6 +1,10 @@
 [![](https://socialify.git.ci/seudonam/awesome-courses-online/image?font=Raleway&forks=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Auto)](https://github.com/seudonam/awesome-courses-online)
-[![](https://img.shields.io/github/license/seudonam/awesome-courses-online?color=red)](https://github.com/seudonam/awesome-courses-online/blob/main/LICENSE)
-[![](https://img.shields.io/github/last-commit/seudonam/awesome-courses-online?color=blueviolet)](https://github.com/seudonam/awesome-courses-online/commits)
+
+<p align="center">
+  <a href="https://github.com/seudonam/awesome-courses-online/blob/main/LICENSE"><img src="https://img.shields.io/github/license/seudonam/awesome-courses-online?color=red"></a>
+  <a href="https://github.com/seudonam/awesome-courses-online/commits"><img src="https://img.shields.io/github/last-commit/seudonam/awesome-courses-online?color=blueviolet"></a>
+</p>
+
 ## 🟣编程 Programming
 - `David Malan`'s Harvard [`CS50`](https://cs50.harvard.edu/x/2023/) Intro to the Intellectual Enterprises of CS and the Art of Programming📺⭐
 
