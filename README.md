@@ -41,7 +41,7 @@
 
 - Berkeley [`CS170`](https://cs170.org/) Efficient Algorithms and Intractable Problems📺
 
-- UIUC [`CS374`](https://courses.engr.illinois.edu/cs374/sp2018/A/) Algorithms and Models of Computation📺
+- UIUC [`CS374`](https://courses.engr.illinois.edu/cs374al1/fa2023/) Algorithms and Models of Computation📺
 
 - MIT [`6.046J`](https://ocw.mit.edu/6-046JS15) Design and Analysis of Algorithms📺
 
